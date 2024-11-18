@@ -1,2 +1,3 @@
-# sidd1729.github.io
-Website Attempt
+#Attempter of Website Template Usage
+
+### Aspiring to be a Bioinformatician
